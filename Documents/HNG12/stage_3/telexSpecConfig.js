@@ -44,7 +44,7 @@ const integrationSpec =
           "options": ["High", "Low"]
         }
       ],
-      "target_url": "URL for integration or service."
+      "target_url": "URL for integration or service"
     }
   };
       
