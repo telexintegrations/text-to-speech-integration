@@ -26,6 +26,7 @@ export class UserController {
     return this.userService.create(createUserDto);
   }
 
+  
   @Get()
   @ApiOperation({ summary: 'Get all users' })
   @ApiResponse({ 
